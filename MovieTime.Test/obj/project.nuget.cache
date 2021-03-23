@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "BmomF8WpVIcGc9SB4TKZFvYZ74c3T0yLGq6dn92vYfbiyJ8Uv3otay/ZGkVmMiwrKx+RarrejX/Oz7bY7Sdizw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sergi\\Desktop\\Movie Time\\MovieTime\\MovieTime.Test\\MovieTime.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sergi\\.nuget\\packages\\commonservicelocator\\2.0.6\\commonservicelocator.2.0.6.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\refit\\6.0.24\\refit.6.0.24.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\refit.newtonsoft.json\\6.0.24\\refit.newtonsoft.json.6.0.24.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\unity.abstractions\\5.11.7\\unity.abstractions.5.11.7.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\unity.container\\5.11.11\\unity.container.5.11.11.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\unity.servicelocation\\5.11.1\\unity.servicelocation.5.11.1.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
